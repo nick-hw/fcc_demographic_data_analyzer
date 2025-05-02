@@ -1,2 +1,4 @@
 # fcc_demographic_data_analyzer
-Freecodecamp Demographic Data Analyzer
+Demographic Data Analyzer
+
+For Free Code Camp exercise
